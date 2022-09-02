@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![SangWoo's github stats](https://github-readme-stats.vercel.app/api?username=miracle3070&count_private=true&hide=stars&count_private=true)]
+![SangWoo's github stats](https://github-readme-stats.vercel.app/api?username=miracle3070&count_private=true&hide=stars&count_private=true)
 
 
 <!--
