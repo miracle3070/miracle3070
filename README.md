@@ -64,13 +64,9 @@ Notion
 
 [비대면 물품 대여 플랫폼 (공유사이)](https://www.notion.so/51862a77bbdd4d8ba2c28cbab7ab8884?pvs=21)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d83c98e-d260-4cd9-902f-f25ae1c0cea5/Untitled.png)
-
-[](https://github.com/miracle3070/share42)
+[깃허브 링크](https://github.com/miracle3070/share42)
 
 **사용 기술스택**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7dce449d-750c-4cfd-8af5-edebde622fff/Untitled.png)
 
 **Back-end**
 
@@ -92,13 +88,9 @@ Notion
 
 [우산 대여 서비스 (BP)](https://www.notion.so/BP-f73909c374834406a84101edd5c9f9b9?pvs=21)
 
-![BP 이미지.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3acde0dd-41f1-4ed9-9b9a-9f5f6f2d013f/BP_%EC%9D%B4%EB%AF%B8%EC%A7%80.png)
-
-[](https://github.com/miracle3070/kiosk-bp)
+[깃허브 링크](https://github.com/miracle3070/kiosk-bp)
 
 **사용 기술스택**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b996a3c6-b049-4791-8fd2-34ee061c23ce/Untitled.png)
 
 **Back-end**
 
@@ -114,11 +106,7 @@ Notion
 
 [대학교 학사안내 챗봇 (계딩선배)](https://www.notion.so/bb5956f235284e9da1f074555abcd7a7?pvs=21)
 
-![2.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47cbce6a-2dac-418b-b70a-ed5aeffe365f/2.png)
-
 **사용 기술스택**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6288e41e-f8dd-44f0-8330-afe0a13a3040/Untitled.png)
 
 **Back-end**
 
