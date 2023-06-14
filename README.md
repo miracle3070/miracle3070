@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![SangWoo's github stats](https://github-readme-stats.vercel.app/api?username=miracle3070&count_private=true&hide=stars&count_private=true)
-
 
 <!--
 **miracle3070/miracle3070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
